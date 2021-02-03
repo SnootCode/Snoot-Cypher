@@ -3,9 +3,9 @@ A Modified Vigenere Cypher utility (Java)
 
 ## About
 
-This Java program encrypts/decrypts messages with my modified Vigenere Cypher (which can encrypt the spaces along with the letters in a message). I build a supporting program to create generate code tables, as the traditional Vigenere Cypher uses only the standard code table but can be used with different code tables.
+This Java program encrypts/decrypts messages with my modified Vigenere Cypher (which can encrypt the spaces along with the letters in a message). I built a supporting program to create generate code tables; the traditional Vigenere Cypher uses only the standard code table, but can work under different code tables. If it is unclear how to use these, start a discussion and I will explain/improve the documentation!
 
-The Vigenere Cypher is a cypher that is resistant to frequency analysis, because the frequency of a given encrypted letter depends on the encoding string. In this way, it is harder to preform frequency analysis to decode it. It is nowhere near as rigorous as modern methods such as elliptic cryptography, but is enough for friends to feel cool communicating in a way that their friends will likely not be able to break. 
+The Vigenere Cypher is a cypher that is resistant to frequency analysis, because the frequency of a given encrypted letter depends on the encoding string. In this way, it is harder to perform frequency analysis to decode it. It is nowhere near as rigorous as modern methods such as elliptic cryptography, but is enough for friends to feel cool communicating in a way that their friends will likely not be able to break. 
 
 ## Files
 
